@@ -1,3 +1,3 @@
 # Chips-Game
 
-A program version of everyone's favorite game: "Chips".
+Finally! A program version of everyone's favorite childhood game: "Chips".
